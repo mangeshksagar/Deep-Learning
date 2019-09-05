@@ -3,10 +3,10 @@ import numpy as np
 import tflearn
 from tflearn.datasets import mnist
 
-#%% LLoad Data
+#%% Load Data
 MNIST_data = mnist.read_data_sets(one_hot=True)
 
-#%%Devide Into Test & Train:-
+#%%Divide Into Test & Train:-
 data_train = MNIST_data.train
 data_validation = MNIST_data.validation
 data_test = MNIST_data.test
