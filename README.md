@@ -1,0 +1,13 @@
+# Applications Of Deep-Learning:-
+-Automatic speech recognition
+-Image recognition
+-Visual art processing
+-Natural language processing
+-Drug discovery and toxicology
+-Customer relationship management
+-Recommendation systems
+-Bioinformatics
+-Mobile advertising
+-Image restoration
+-Financial fraud detection
+-Military
